@@ -50,6 +50,7 @@ Dataset C, near infra-red (Band 3)
 
 water quality: Suspended Solid (SS)
 
+other files: 
 - evaluate_summary.xlsx: This file were summarized data: estimated values and errors of the proposed method and fuzzy regression analysis; actual SS values at five measurement sites.
 - water_quality_map_fra.png: water quality map of a fuzzy regression analysis, the conventional method
 
