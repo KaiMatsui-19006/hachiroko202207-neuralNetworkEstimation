@@ -40,9 +40,9 @@ This repository was created by Kai Matsui. If you have any question about this r
 2. Open "Run.py" in the Python IDE (such as Anaconda Spyder) on your computer.
 3. Run the file 'run.py'
 4. Check the results in the *dst* directory
-   - nn_results - pred_results.pkl: 
-   - evaluate_proposed.xlsx: 
-   - water_quality_map.png: 
+   - nn_results - pred_results.pkl: estimated water quality values by the proposed method
+   - evaluate_proposed.xlsx: listed estimated values and error of the proposed method at five measurement sites
+   - water_quality_map_proposed_mothod.png: water quality map of the proposed method
 
 ## Sample data
 
@@ -50,4 +50,12 @@ Dataset C, near infra-red (Band 3)
 
 water quality: Suspended Solid (SS)
 
-evaluate_summary.xlsx: This file were summarized data: estimated values and errors of the proposed method and fuzzy regression analysis; actual SS values at five measurement sites.
+- evaluate_summary.xlsx: This file were summarized data: estimated values and errors of the proposed method and fuzzy regression analysis; actual SS values at five measurement sites.
+- water_quality_map_fra.png: water quality map of a fuzzy regression analysis, the conventional method
+
+five measurement sites: 
+   - site 1, ogata bridge
+   - site 2, east adjustment pond
+   - site 3, center of the adjustment pond
+   - site 4, west adjustment pond
+   - site 5, floodgate        
