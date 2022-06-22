@@ -41,7 +41,7 @@ This repository was created by Kai Matsui. If you have any question about this r
 3. Run the file 'run.py'
 4. Check the results in the *dst* directory
    - nn_results - pred_results.pkl: estimated water quality values by the proposed method
-   - evaluate_proposed.xlsx: listed estimated values and error of the proposed method at five measurement sites
+   - evaluate_proposed.xlsx: listed estimated values of the proposed method at five measurement sites
    - water_quality_map_proposed_mothod.png: water quality map of the proposed method
 
 ## Sample data
