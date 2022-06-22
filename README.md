@@ -7,8 +7,8 @@ This repository was created by Kai Matsui. If you have any question about this r
 ### PC
 
 - OS: OS: Windows 10 Pro
-- CPU: Intel(R) Core(TM) i7-9700F 3.00 GHz
-- メモリ: 16.00 GB
+- CPU: Intel(R) Core(TM) i7-9700 3.00 GHz
+- RAM: 16.00 GB
 - GPU: NVIDIA GeForce RTX 2060
 
 ### Tools
