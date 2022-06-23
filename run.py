@@ -14,7 +14,7 @@ import cv2
 import os
 import pandas as pd
 
-## import local fucntion
+## import local code
 import nn_learning
 import create_map
 import evaluation
